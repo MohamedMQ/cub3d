@@ -44,5 +44,5 @@ make
 ```
 
 ## Contributors
-    - [Mohamed Maqbour](https://github.com/mohamedMQ)
-    - [Dounia Rtaili](https://github.com/DOUNIARTAILI)
+- [Mohamed Maqbour](https://github.com/mohamedMQ)
+- [Dounia Rtaili](https://github.com/DOUNIARTAILI)
